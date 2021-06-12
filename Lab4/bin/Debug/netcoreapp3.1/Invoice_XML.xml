@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfInvoice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Invoice>
+    <accountOfnumber>105</accountOfnumber>
+    <data> 21.03.2021</data>
+    <name> BLOODY</name>
+    <ContractOfnumber>34</ContractOfnumber>
+    <Amount>45643</Amount>
+  </Invoice>
+  <Invoice>
+    <accountOfnumber>202</accountOfnumber>
+    <data> 15.03.2020</data>
+    <name> ZiPPo</name>
+    <ContractOfnumber>45</ContractOfnumber>
+    <Amount>65843</Amount>
+  </Invoice>
+  <Invoice>
+    <accountOfnumber>65</accountOfnumber>
+    <data> 23.11.2018</data>
+    <name> SPORTLIFE</name>
+    <ContractOfnumber>34</ContractOfnumber>
+    <Amount>58687</Amount>
+  </Invoice>
+  <Invoice>
+    <accountOfnumber>789</accountOfnumber>
+    <data> 05.07.2019</data>
+    <name> Sven</name>
+    <ContractOfnumber>89</ContractOfnumber>
+    <Amount>48369</Amount>
+  </Invoice>
+</ArrayOfInvoice>
